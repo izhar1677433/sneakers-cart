@@ -11,8 +11,7 @@ import Cart from "./components/Cart";
 import menuIcon from "./images/icon-menu.svg";
 import logo from "./images/logo.svg";
 import cartIcon from "./images/icon-cart.svg";
-import avatar from "./images/image-avatar.png";
-
+import avatar from "./images/eng.png";
 const App = () => {
   let [navVisibility, setNavVisibility] = useState(false);
   let [cartVisibility, setCartVisibility] = useState(false);
